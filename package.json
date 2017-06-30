@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "exit 0",
+    "start": "exit 0"
   },
   "private": true,
   "devDependencies": {
