@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "exit 0",
+  },
   "private": true,
   "devDependencies": {
     "gulp": "^3.8.8",
